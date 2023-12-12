@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
@@ -26,7 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
+
 # angular-crud
 A simple CRUD using Angular.
->>>>>>> b5101e0e8fcdcaf34b698c2c98b3e2d2eea18740
